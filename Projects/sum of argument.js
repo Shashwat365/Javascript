@@ -10,8 +10,8 @@ function average(a,b){
 let result= average(10,20);
 console.log(result)
 
-var fruit=['Shashwat' , 'Rudransh' , 'Kabeer' , 'sarthak'];
-console.log(fruit.join("👌"));
-console.log(fruit);
-fruit.pop();
-console.log(fruit);
+var student=['Shashwat' , 'Rudransh' , 'Kabeer' , 'sarthak'];
+console.log(student.join("👌"));
+console.log(student);
+student.pop();
+console.log(student);
